@@ -7,3 +7,13 @@ C:\Users\carva\Documents\Visual Studio 2015\Alex.VirtualStore\Alex.VirtualStore.
 C:\Users\carva\Documents\Visual Studio 2015\Alex.VirtualStore\Alex.VirtualStore.Dominio\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\carva\Documents\Visual Studio 2015\Alex.VirtualStore\Alex.VirtualStore.Dominio\obj\Debug\Alex.VirtualStore.Dominio.dll
 C:\Users\carva\Documents\Visual Studio 2015\Alex.VirtualStore\Alex.VirtualStore.Dominio\obj\Debug\Alex.VirtualStore.Dominio.pdb
+C:\Users\carva\OneDrive\Documentos\Visual Studio 2015\Projects\Alex.VirtualStore\Alex.VirtualStore.Dominio\bin\Debug\Alex.VirtualStore.Dominio.dll.config
+C:\Users\carva\OneDrive\Documentos\Visual Studio 2015\Projects\Alex.VirtualStore\Alex.VirtualStore.Dominio\bin\Debug\Alex.VirtualStore.Dominio.dll
+C:\Users\carva\OneDrive\Documentos\Visual Studio 2015\Projects\Alex.VirtualStore\Alex.VirtualStore.Dominio\bin\Debug\Alex.VirtualStore.Dominio.pdb
+C:\Users\carva\OneDrive\Documentos\Visual Studio 2015\Projects\Alex.VirtualStore\Alex.VirtualStore.Dominio\bin\Debug\EntityFramework.dll
+C:\Users\carva\OneDrive\Documentos\Visual Studio 2015\Projects\Alex.VirtualStore\Alex.VirtualStore.Dominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\carva\OneDrive\Documentos\Visual Studio 2015\Projects\Alex.VirtualStore\Alex.VirtualStore.Dominio\bin\Debug\EntityFramework.xml
+C:\Users\carva\OneDrive\Documentos\Visual Studio 2015\Projects\Alex.VirtualStore\Alex.VirtualStore.Dominio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\carva\OneDrive\Documentos\Visual Studio 2015\Projects\Alex.VirtualStore\Alex.VirtualStore.Dominio\obj\Debug\Alex.VirtualStore.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\carva\OneDrive\Documentos\Visual Studio 2015\Projects\Alex.VirtualStore\Alex.VirtualStore.Dominio\obj\Debug\Alex.VirtualStore.Dominio.dll
+C:\Users\carva\OneDrive\Documentos\Visual Studio 2015\Projects\Alex.VirtualStore\Alex.VirtualStore.Dominio\obj\Debug\Alex.VirtualStore.Dominio.pdb
