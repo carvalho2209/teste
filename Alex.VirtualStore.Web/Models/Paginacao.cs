@@ -10,6 +10,9 @@ namespace Alex.VirtualStore.Web.Models
 
         public int PaginaAtual { get; set; }
 
-        public int TotalPagina => (int) Math.Ceiling((decimal) ItensTotal/ItensPorPagina);
+        public int TotalPagina
+        {
+            get { return (int) Math.Ceiling((decimal) ItensTotal/ItensPorPagina); }
+        }
     }
 }
